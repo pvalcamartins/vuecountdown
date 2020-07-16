@@ -29,9 +29,9 @@ export default {
   name: "CountDown",
   data() {
     return {
-      YY: 2020,
-      MM: 7,
-      DD: 15,
+      YY: 2022,
+      MM: 1,
+      DD: 14,
       HH: 23,
       MI: 59,
       SS: 59,
@@ -131,7 +131,7 @@ div.box-counter div span.texto {
   font-weight: 400;
   color: #808080;
 }
-div span.chegou{
+div span.chegou {
   font-size: 7vw;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;

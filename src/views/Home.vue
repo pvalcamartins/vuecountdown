@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
     <CountDown />
   </div>
 </template>
@@ -16,3 +15,10 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+div.home {
+  width: 100%;
+  height: 100%;
+}
+</style>
